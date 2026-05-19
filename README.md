@@ -1,41 +1,59 @@
-## 👋 Olá, eu sou o Washington (Kim)!
+# Washington Campos
 
-🧑‍💻 Apaixonado por transformar ideias em produtos reais que unem tecnologia, dados e impacto social. Curto criar soluções para educação, setor público, analytics e ferramentas do dia a dia, sempre focando em código limpo, arquitetura escalável e UX de verdade.
+Engenheiro de Software focado em product engineering, arquitetura backend, sistemas orientados por IA e plataformas escaláveis.
 
-🌱 **Atualmente estou me aprofundando em Engenharia de Dados** (Python, Pandas, SQL), Machine Learning e análise de produtos modernos. Venho trabalhando em projetos com **Flutter/Dart**, **CodeIgniter 4** e **dashboards/data viz** usando Metabase, Power BI e Streamlit.
+Atualmente desenvolvendo sistemas envolvendo IA adaptativa, pipelines de telemetria, comunicação em tempo real, serviços distribuídos e aplicações web modernas.
 
-💞️ Procuro colaborar em projetos que precisam de backend, frontend ou tratamento de dados, principalmente iniciativas de impacto social, edtech, civic tech e dados abertos. Valorizo código prático, trabalho em equipe e troca de conhecimento.
+---
 
-🚀 **Stack principal:**  
-Flutter • Python • PHP (CodeIgniter 4) • Metabase • Git • VS Code
+## Foco Atual
 
+- Produtos orientados por IA
+- Arquitetura backend
+- Sistemas distribuídos
+- Telemetria e analytics
+- Sistemas em tempo real (SSE/gRPC)
+- Engenharia de produto
+- Plataformas SaaS escaláveis
+- Developer experience e confiabilidade de sistemas
 
+---
+
+## Stack Principal
+
+TypeScript • Node.js • React • Next.js • Kotlin • Spring Boot • Python • PostgreSQL • Flutter • Docker • Kubernetes
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📫 Contato
-<div>
-<a href="mailto:washingtonlzc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/washingtonls/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## Projetos
+
+### GenPulse
+Plataforma de aprendizagem adaptativa orientada por IA focada em telemetria comportamental, simulados e inteligência educacional personalizada.
+
 
 ---
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=washingtonlzc&theme=2077)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=washingtonlzc&theme=2077)
+## Contato
 
+<div>
+  <a href="mailto:washingtonlzc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<!---
-washingtonlzc/washingtonlzc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+  <a href="https://www.linkedin.com/in/washingtonls/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
