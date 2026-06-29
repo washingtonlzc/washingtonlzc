@@ -61,11 +61,19 @@ Frontend & Mobile • React • Next.js • Flutter
 
 ---
 
-## Projetos
+## Featured Projects
 
-### GenPulse
-Plataforma de aprendizagem adaptativa orientada por IA focada em telemetria comportamental, simulados e inteligência educacional personalizada.
+🛡️ **AI Safety Suite**
+Automated validation and security testing for LLM-powered applications.
 
+🧠 **GenPulse**
+Adaptive AI learning platform powered by behavioral intelligence.
+
+🚗 **RoadVision AI**
+Edge AI computer vision platform for real-time mobile recognition.
+
+💼 **AngelsKapital**
+Dealflow and portfolio intelligence platform for angel investment operations.
 
 ---
 
